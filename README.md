@@ -3,6 +3,7 @@
 https://nodeschool.io/#workshopper-list
 
 
-Exercicios de Stream
+Exercicios de Node (inicio): npm install -g learnyounode
 
-npm install -g stream-adventure
+Exercicios de Stream: npm install -g stream-adventure
+
